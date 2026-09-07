@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "section_header",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}
