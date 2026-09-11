@@ -14,15 +14,6 @@
 ohpm install section-header
 ```
 
-本地源码依赖：
-
-```json5
-{
-  "dependencies": {
-    "section-header": "file:../section-header"
-  }
-}
-```
 
 ## 正常使用样式
 
