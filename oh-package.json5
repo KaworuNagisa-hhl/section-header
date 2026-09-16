@@ -1,6 +1,6 @@
 {
   "modelVersion": "6.0.2",
-  "name": "section-header",
+  "name": "@kaworunagisa_hhl/section-header",
   "version": "1.0.3",
   "description": "OpenHarmony/HarmonyOS ArkUI like-ios 分组标题组件，适合列表分区、设置页分组和内容区标题。提供 homepage、example 示例目录与清晰的 README 使用说明。",
   "main": "Index.ets",
@@ -13,10 +13,14 @@
     "HarmonyOS",
     "ArkUI",
     "like-ios",
-    "frosted-glass",
-    "component"
+    "ios-like",
+    "kaworunagisa_hhl",
+    "section",
+    "header",
+    "title",
+    "list"
   ],
   "dependencies": {
-    "theme": "file:../theme"
+    "@kaworunagisa_hhl/theme": "file:../theme"
   }
 }

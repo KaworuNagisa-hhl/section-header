@@ -5,7 +5,7 @@ import {
   SWIFT_UI_TEXT_PRIMARY,
   SWIFT_UI_TEXT_TERTIARY,
   SwiftUIComponentConfig
-} from 'theme'
+} from '@kaworunagisa_hhl/theme'
 
 @Component
 export struct SwiftUISectionHeader {
