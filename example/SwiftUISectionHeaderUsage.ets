@@ -1,4 +1,4 @@
-import { SwiftUISectionHeader } from '@kaworunagisa_hhl/section-header'
+import { SwiftUISectionHeader } from 'section-header'
 
 @Component
 export struct SwiftUISectionHeaderUsage {
